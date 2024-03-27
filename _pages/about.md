@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Lindstedtsvägen 24</p>
-    <p>114 28 Stockholm</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,6 +17,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I'm a second-year PhD student at KTH Royal Institute of Technology in Stockholm under the supervision of Asoc. Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). My research is supported by the European Commission project [SoftEnable](https://softenable.eu/). Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University (SJTU).
 
+My current research interest is 
+<!-- <p>Lindstedtsvägen 24</p> -->
+<!-- <p>114 28 Stockholm</p> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
