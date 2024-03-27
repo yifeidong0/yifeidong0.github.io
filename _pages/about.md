@@ -17,7 +17,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I'm a second-year PhD student at KTH Royal Institute of Technology in Stockholm under the supervision of Asoc. Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). My research is supported by the European Commission project [SoftEnable](https://softenable.eu/). Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University (SJTU).
 
-My current research interest is 
+My current research interest is robustness analysis and robust motion planning in general dexterous manipulation. My recent work focuses on characterizing robustness in manipulation using energy and caging analysis. 
+
 <!-- <p>Lindstedtsvägen 24</p> -->
 <!-- <p>114 28 Stockholm</p> -->
 
