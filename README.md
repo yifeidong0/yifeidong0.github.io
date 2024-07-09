@@ -451,3 +451,12 @@ Our most active contributors are welcome to join the maintainers team. If you ar
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
+
+
+<!-- @article{dong2020contact,
+  title={Contact-Implicit MPC for Mobile Manipulation},
+  author={Dong, Yifei},
+  journal={Master Project Thesis},
+  year={2022},
+  pdf={Master_Project_Thesis.pdf},
+} -->
