@@ -11,13 +11,15 @@ profile:
   more_info: >
 
 news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm a second-year PhD student at KTH Royal Institute of Technology in Stockholm under the supervision of Asoc. Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). My research is supported by the European Commission project [SoftEnable](https://softenable.eu/). Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University (SJTU).
+Hi there! I'm a second-year PhD student at KTH Royal Institute of Technology in Stockholm under the supervision of Asoc. Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). My research is supported by the European Commission project [SoftEnable](https://softenable.eu/). Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University.
 
-My current research interest is robustness analysis and its application in contact-rich dexterous manipulation.
+My current research interest is planning and analysis in dexterous and caging-based manipulation.
+
+
 
 <!-- <p>Lindstedtsvägen 24</p> -->
 <!-- <p>114 28 Stockholm</p> -->
