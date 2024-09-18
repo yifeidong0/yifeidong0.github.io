@@ -8,10 +8,6 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-<div class="papers">
+<div class="publications">
 {% bibliography %}
-</div>
-
-<div class="workshop-papers">
-{% bibliography source="/_bibliography/ws_papers.bib" %}
 </div>
