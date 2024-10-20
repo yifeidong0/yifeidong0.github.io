@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I'm a second-year PhD student at KTH Royal Institute of Technology in Stockholm under the supervision of Asoc. Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). My research is supported by the European Commission project [SoftEnable](https://softenable.eu/). Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University.
 
-My current research interest is planning and analysis in dexterous and caging-based manipulation.
+My current research interests include planning and co-design for robust manipulation. Please find details in my [CV](assets/pdf/Yifei_CV.pdf).
 
 
 
