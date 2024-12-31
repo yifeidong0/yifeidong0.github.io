@@ -22,5 +22,18 @@
   - firstname: ["Júlia", "Julia", "J.", "J"]
     url: https://www.iri.upc.edu/people/jborras/
 
+"tumova":
+  - firstname: ["Jana", "J.", "J"]
+    url: https://sites.google.com/view/janatumova/home?authuser=0
 
+"roa":
+  - firstname: ["Maximo A.", "Maximo", "M", "M.", "M. A."]
+    url: https://rmc.dlr.de/rm/de/staff/maximo.roa/
 
+"friedl":
+  - firstname: ["Werner", "W", "W."]
+    url: https://rmc.dlr.de/rm/de/staff/werner.friedl/
+
+"muchacho":
+  - firstname: ["Rafael I. Cabral", "R.", "Rafael", "Rafael I.", "R. I.", "R. I. C.", "RIC"]
+    url: https://scholar.google.com/citations?user=Gq3RAk8AAAAJ&hl=en
