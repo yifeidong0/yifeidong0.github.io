@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ <a href='https://www.kth.se/is/rpl'>KTH RPL</a>. 
+subtitle:
 
 profile:
   align: right
@@ -19,7 +19,7 @@ Hi there! I'm a second-year PhD student at KTH Royal Institute of Technology in 
 
 Robotics faces the challenge of achieving human-level robustness in manipulation. My research focuses on improving robotic manipulation by enhancing control policies and co-designing robot morphology for robust performance. I am exploring techniques such as caging-based manipulation and the synergy between morphology and behavior, taking into consideration the uncertainties in robot modeling, object properties and environments. Please find details in my [CV](assets/pdf/Yifei_CV.pdf).
 
-
+ <!-- PhD student @ <a href='https://www.kth.se/is/rpl'>KTH RPL</a>.  -->
 
 <!-- <p>Lindstedtsvägen 24</p> -->
 <!-- <p>114 28 Stockholm</p> -->
