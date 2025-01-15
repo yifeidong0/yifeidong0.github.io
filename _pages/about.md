@@ -15,10 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm a second-year PhD student at KTH Royal Institute of Technology in Stockholm under the supervision of Asoc. Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). My research is supported by the European Commission project [SoftEnable](https://softenable.eu/). Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University.
+Hi there! I'm a PhD student at KTH Royal Institute of Technology in Stockholm under the supervision of Asoc. Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University. Other details can be found in my [CV](assets/pdf/Yifei_CV.pdf).
 
-Robotics faces the challenge of achieving human-level robustness in manipulation. My research focuses on improving robotic manipulation by enhancing control policies and co-designing robot morphology for robust performance. I am exploring techniques such as caging-based manipulation and the synergy between morphology and behavior, taking into consideration the uncertainties in robot modeling, object properties and environments. Please find details in my [CV](assets/pdf/Yifei_CV.pdf).
+Robots face challenges in achieving human-level robustness in manipulation. My research focuses on enhancing control policies and co-designing robot morphology to improve performance under uncertainties in contacts, object properties, and environments.
 
+ <!-- My research is supported by the European Commission project [SoftEnable](https://softenabl.eu/). -->
  <!-- PhD student @ <a href='https://www.kth.se/is/rpl'>KTH RPL</a>.  -->
 
 <!-- <p>Lindstedtsvägen 24</p> -->
