@@ -242,7 +242,7 @@ For customization details please refer to [CUSTOMIZE.md](CUSTOMIZE.md).
 
 ### Light/Dark Mode
 
-This template has a built-in light/dark mode. It detects the user preferred color scheme and automatically switches to it. You can also manually switch between light and dark mode by clicking on the sun/moon icon in the top right corner of the page.
+This template has a built-in light/dark mode. It detects the user preferred color scheme and automatically switches to it. You can also manually switch between light and dark mode by clicking on the sun/moon icon in the top right corner of the page
 
 <p align="center">
 <img src="readme_preview/light.png" width=400>
