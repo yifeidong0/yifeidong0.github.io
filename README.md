@@ -460,3 +460,22 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
   year={2022},
   pdf={Master_Project_Thesis.pdf},
 } -->
+
+<!-- @article{dongsoft,
+  title={Soft Fixtures: Towards Practical Caging-Based Manipulation of Rigid and Deformable Objects},
+  journal={[Workshop] on Representing and Manipulating Deformable Objects (ICRA)},
+  author={Dong, Yifei and Pokorny, Florian T.},
+  preview={icra2023ws-1.gif},
+  pdf={ICRA2023Workshop-cameraReady.pdf},
+  video={/assets/video/icra2023ws.mp4},
+  year={2023},
+} -->
+<!-- 
+@article{dong2024advancing,
+  title={Advancing Robust Multi-Object Manipulation with Energy Margins},
+  journal={[Workshop] on Multi-Object Grasping: Progress and Prospects (ICRA)},
+  author={Dong, Yifei and Cheng, Xianyi and Friedl, Werner and Schröter, Aurel and Sundaram, Ashok M. and Roa, Máximo A. and Pokorny, Florian T.},
+  pdf={ICRA2024_Multi_Object.pdf},
+  preview={icra2024ws.png},
+  year={2024},
+} -->

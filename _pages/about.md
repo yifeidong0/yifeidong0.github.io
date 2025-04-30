@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I'm a PhD student at KTH Royal Institute of Technology in Stockholm under the supervision of Asoc. Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University. Other details can be found in my [CV](assets/pdf/Yifei_CV.pdf).
 
-Robots face challenges in achieving human-level robustness in manipulation. My research focuses on enhancing manipulation robustness under various real-world uncertainties through optimizing control policies and the physical structure of robots.
+Robots face challenges in achieving human-level robustness in manipulation under various real-world uncertainties. My research focuses on enhancing manipulation robustness through optimizing control policies and the physical structure of robots.
 
  <!-- My research is supported by the European Commission project [SoftEnable](https://softenabl.eu/). -->
  <!-- PhD student @ <a href='https://www.kth.se/is/rpl'>KTH RPL</a>.  -->
