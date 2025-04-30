@@ -470,6 +470,7 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
   video={/assets/video/icra2023ws.mp4},
   year={2023},
 } -->
+
 <!-- 
 @article{dong2024advancing,
   title={Advancing Robust Multi-Object Manipulation with Energy Margins},
@@ -478,4 +479,13 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
   pdf={ICRA2024_Multi_Object.pdf},
   preview={icra2024ws.png},
   year={2024},
+} -->
+
+<!-- 
+@article{dominguez2025first,
+  title={The First WARA Robotics Mobile Manipulation Challenge - Lessons Learned},
+  journal={Under review},
+  author={al., David Cáceres Domínguez et},
+  year={2025},
+  video={https://www.youtube.com/watch?v=F9PRgmFeArM},
 } -->
