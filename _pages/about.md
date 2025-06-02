@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -15,9 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm a PhD student at KTH Royal Institute of Technology in Stockholm under the supervision of Asoc. Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University. Other details can be found in my [CV](assets/pdf/Yifei_CV.pdf).
+Hi there! I'm a PhD student at KTH in Stockholm, working with Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/) and [Xianyi Cheng](https://xianyicheng.github.io/) at Duke. Previously, I received my M.Sc. from ETH Zurich and my B. Sc. from Shanghai Jiao Tong University. Here is my [CV](assets/pdf/Yifei_CV.pdf).
 
-Robots face challenges in achieving human-level robustness in manipulation under various real-world uncertainties. My research focuses on enhancing manipulation robustness through optimizing control policies and the physical structure of robots.
+Robots face challenges in achieving human-level robustness in contact-rich manipulation under uncertainties. My research focuses on enhancing manipulation robustness through optimizing the control policies and physical structure of robots.
 
  <!-- My research is supported by the European Commission project [SoftEnable](https://softenabl.eu/). -->
  <!-- PhD student @ <a href='https://www.kth.se/is/rpl'>KTH RPL</a>.  -->
