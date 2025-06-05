@@ -482,15 +482,6 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
 } -->
 
 <!-- 
-@article{dominguez2025first,
-  title={The First WARA Robotics Mobile Manipulation Challenge - Lessons Learned},
-  journal={Under review},
-  author={al., David Cáceres Domínguez et},
-  year={2025},
-  video={https://www.youtube.com/watch?v=F9PRgmFeArM},
-} -->
-
-<!-- 
 @article{ikemura2025efficient,
   title={Efficient End-effector Co-Design by Demonstration for Deformable Fragile Object Manipulation},
   author={Ikemura, Kei and Dong, Yifei and Blanco-Mulero, David and Longhini, Alberta and Chen, Li and Pokorny, Florian T.},
