@@ -37,3 +37,31 @@
 "muchacho":
   - firstname: ["Rafael I. Cabral", "R.", "Rafael", "Rafael I.", "R. I.", "R. I. C.", "RIC"]
     url: https://scholar.google.com/citations?user=Gq3RAk8AAAAJ&hl=en
+
+"zhang":
+  - firstname: ["Yan", "Y."]
+    url: https://ollieyzhang.github.io/
+
+"calinon":
+  - firstname: ["Sylvain", "S.", "S. Calinon"]
+    url: https://calinon.ch/
+
+"kragic":
+  - firstname: ["Danica", "D.", "D. Kragic"]
+    url: https://scholar.google.se/citations?hl=en&user=ZlSVieAAAAAJ&view_op=list_works&sortby=pubdate
+
+"lundell":
+  - firstname: ["Jens", "J."]
+    url: https://jenslundell.ai/
+
+"lu":
+  - firstname: ["Haofei", "H.", "H. Lu"]
+    url: https://scholar.google.com/citations?user=wBuHBlcAAAAJ&hl=en
+
+"weng":
+  - firstname: ["Zehang", "Z.", "Z. Weng"]
+    url: https://scholar.google.com/citations?user=FW9F2N4AAAAJ&hl=sv
+
+"dong":
+  - firstname: ["Yifei", "Y.", "Y. Dong"]
+    url: https://yifeidong0.github.io/
