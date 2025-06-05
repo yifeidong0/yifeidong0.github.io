@@ -489,3 +489,14 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
   year={2025},
   video={https://www.youtube.com/watch?v=F9PRgmFeArM},
 } -->
+
+<!-- 
+@article{ikemura2025efficient,
+  title={Efficient End-effector Co-Design by Demonstration for Deformable Fragile Object Manipulation},
+  author={Ikemura, Kei and Dong, Yifei and Blanco-Mulero, David and Longhini, Alberta and Chen, Li and Pokorny, Florian T.},
+  journal={RSS Workshop on Robot Hardware-Aware Intelligence},
+  year={2025},
+  selected={false},
+  preview={},
+  pdf={},
+} -->
