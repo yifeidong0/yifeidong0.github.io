@@ -60,7 +60,15 @@
 
 "weng":
   - firstname: ["Zehang", "Z.", "Z. Weng"]
-    url: https://scholar.google.com/citations?user=FW9F2N4AAAAJ&hl=sv
+    url: https://scholar.google.com/citations?user=FW9F2N4AAAAJ&hl=en
+
+"longhini":
+  - firstname: ["Alberta", "A.", "A. Longhini"]
+    url: https://albilo17.github.io/
+
+"ikemura":
+  - firstname: ["Kei", "K.", "K. Ikemura"]
+    url: https://scholar.google.com/citations?user=SKSwPWUAAAAJ&hl=en
 
 "dong":
   - firstname: ["Yifei", "Y.", "Y. Dong"]
