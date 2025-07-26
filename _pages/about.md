@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I'm a PhD student at KTH in Stockholm, working with Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/) and [Xianyi Cheng](https://xianyicheng.github.io/) at Duke. I hold an M.Sc. from ETH Zürich and a B.Sc. from Shanghai Jiao Tong University. My résumé is available [here](assets/pdf/Yifei_CV.pdf).
 
-My research focuses on enhancing the robustness of robotic manipulation in the presence of uncertainty and external disturbances. I study the foundations of robust robotic and biological behavior and develop methods that combine reactive control strategies with optimization of robot embodiment to ensure reliable and adaptable manipulation.
+My research focuses on enhancing the robustness of robotic manipulation. I develop algorithms of reactive planning or computational embodiment optimization for robust manipulation.
 
  <!-- My research is supported by the European Commission project [SoftEnable](https://softenabl.eu/). -->
  <!-- PhD student @ <a href='https://www.kth.se/is/rpl'>KTH RPL</a>.  -->
