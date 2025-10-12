@@ -153,6 +153,11 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.workshop_name %}
+      <div class="periodical" style="font-size:75%; margin-top:-0.3em;">
+        {{ entry.workshop_name }}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
