@@ -8,7 +8,7 @@ middle_name:
 last_name: Dong
 email: yifeid@kth.se
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -320,7 +320,7 @@ filtered_bibtex_keywords:
   [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website, paper, workshop]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: 4 # leave blank to always show all authors
 more_authors_animation_delay: 20 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
