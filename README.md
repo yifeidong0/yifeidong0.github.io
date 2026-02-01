@@ -502,3 +502,5 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
   arxiv={2508.01245},
   preview={warriormath.png},
 } -->
+
+<!-- and Iannotta, Marco and Kashyap, Abhishek and Sun, Shuo and Yang, Yuxuan and Cella, Christian and Colombo, Matteo and Pelosi, Martina and Preziosa, Giuseppe F. and Tafuro, Alessandra and Zappa, Isacco and Busch, Finn and Dong, Yifei and Longhini, Alberta and Lu, Haofei and Cabral Muchacho, Rafael I. and Styrud, Jonathan and Fregnan, Sebastiano and Guberina, Marko and Jia, Zheng and Carriero, Graziano and Lindqvist, Sofia and Di Castro, Silvio and Iovino, Matteo -->
