@@ -504,3 +504,16 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
 } -->
 
 <!-- and Iannotta, Marco and Kashyap, Abhishek and Sun, Shuo and Yang, Yuxuan and Cella, Christian and Colombo, Matteo and Pelosi, Martina and Preziosa, Giuseppe F. and Tafuro, Alessandra and Zappa, Isacco and Busch, Finn and Dong, Yifei and Longhini, Alberta and Lu, Haofei and Cabral Muchacho, Rafael I. and Styrud, Jonathan and Fregnan, Sebastiano and Guberina, Marko and Jia, Zheng and Carriero, Graziano and Lindqvist, Sofia and Di Castro, Silvio and Iovino, Matteo -->
+
+<!-- 
+@article{dominguez2025first,
+  title={The First WARA Robotics Mobile Manipulation Challenge - Lessons Learned},
+  author={Domínguez et al., David Cáceres},
+  video={https://www.youtube.com/embed/F9PRgmFeArM},
+  journal={European Conference on Mobile Robots},
+  year={2025},
+  selected={false},
+  preview={wara.gif},
+  arxiv={2505.06919},
+  pdf={wara-paper.pdf},
+} -->
