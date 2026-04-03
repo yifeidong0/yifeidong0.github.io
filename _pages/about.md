@@ -15,9 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm a PhD student at KTH in Stockholm, working with Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/) and [Xianyi Cheng](https://xianyicheng.github.io/) at Duke. I hold an M.Sc. from ETH Zürich and a B.Sc. from Shanghai Jiao Tong University. My résumé is available [here](assets/pdf/Yifei_CV.pdf).
+Hi! I'm a PhD student at KTH in Stockholm, working with Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/) and [Xianyi Cheng](https://xianyicheng.github.io/) at Duke. I hold an M.Sc. from ETH Zürich and a B.Sc. from Shanghai Jiao Tong University. My [résumé](assets/pdf/Yifei_CV.pdf).
 
-My research explores the fundamental principles that enable robust manipulation, with the broader goal of achieving human-level robustness in robotic systems. I focus on manipulation of rigid and deformable objects via nonprehensile or tool-assisted interactions. I combine hardware–control co-design, energy-based caging analysis, and reinforcement learning to develop robust manipulation strategies that are transferable from simulation to the real world.
+My research explores the fundamental principles that enable robust manipulation. I am especially interested manipulation of rigid and deformable objects via nonprehensile or tool-assisted interactions. With the broader goal of achieving human-level robustness in robotic systems, I have been actively exploring topics such as robot hardware–control co-design, adversarial learning, and energy-based caging grasps.
+
+If you are a motivated master’s or undergraduate student with a solid background in robotics and an interest in these topics, feel free to reach out regarding potential research projects.
 
  <!-- My research is supported by the European Commission project [SoftEnable](https://softenabl.eu/). -->
  <!-- PhD student @ <a href='https://www.kth.se/is/rpl'>KTH RPL</a>.  -->

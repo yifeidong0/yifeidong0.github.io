@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 We will organize a workshop at ICRA 2026: <a href="https://manipulation-robustness.github.io/icra2026/">Workshop on Manipulation Robustness:
-Towards Human-Level Robustness under Real-World Challenges</a>
+Towards Human-Level Robustness under Real-World Challenges</a>. 
