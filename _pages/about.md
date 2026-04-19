@@ -19,7 +19,9 @@ Hi! I'm a PhD student at KTH in Stockholm, working with Prof. [Florian T. Pokorn
 
 My research explores the fundamental principles that enable robust manipulation. I am especially interested manipulation of rigid and deformable objects via nonprehensile or tool-assisted interactions. With the broader goal of achieving human-level robustness in robotic systems, I have been actively exploring topics such as robot hardware–control co-design, adversarial learning, and energy-based caging grasps.
 
-If you are a motivated master’s or undergraduate student with a solid background in robotics and an interest in these topics, feel free to reach out regarding potential research projects.
+If these topics interest you as well, feel free to reach out for a chat (brainstorming, student projects, potential collaborations, etc).
+
+<!-- If you are a motivated master’s or undergraduate student with a solid background in robotics and an interest in these topics, feel free to reach out regarding potential research projects. -->
 
  <!-- My research is supported by the European Commission project [SoftEnable](https://softenabl.eu/). -->
  <!-- PhD student @ <a href='https://www.kth.se/is/rpl'>KTH RPL</a>.  -->
