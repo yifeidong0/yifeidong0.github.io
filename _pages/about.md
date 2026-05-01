@@ -17,7 +17,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm a PhD student at KTH in Stockholm, working with Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/) and [Xianyi Cheng](https://xianyicheng.github.io/) at Duke. I hold an M.Sc. from ETH Zürich and a B.Sc. from Shanghai Jiao Tong University. My [résumé](assets/pdf/Yifei_CV.pdf).
 
-My research explores the fundamental principles that enable robust manipulation under uncertainties. I am especially interested manipulation of rigid and deformable objects via nonprehensile or tool-assisted interactions. My works combine physics priors with learning methods to solve challenging manipulation problems. Topics that I have been actively exploring: robot hardware–control co-design, adversarial learning, and energy-based caging grasps.
+With the ultimate goal of understanding human-level robustness under uncertainty and achieving it in robotic systems, my work combines physics priors with learning methods to solve challenging manipulation planning problems.
+I am especially interested in manipulation of rigid and deformable objects via nonprehensile or tool-assisted interactions. Topics that I have been actively exploring: robot hardware-control co-design, grasping by caging, game, and energy-based caging grasps.
 <!-- With the broader goal of achieving human-level robustness in robotic systems,
  -->
 
