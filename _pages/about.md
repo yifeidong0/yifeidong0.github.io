@@ -17,8 +17,10 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm a PhD student at KTH in Stockholm, working with Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/) and [Xianyi Cheng](https://xianyicheng.github.io/) at Duke. I hold an M.Sc. from ETH Zürich and a B.Sc. from Shanghai Jiao Tong University. My [résumé](assets/pdf/Yifei_CV.pdf).
 
-With the ultimate goal of understanding human-level robustness under uncertainty and achieving it in robotic systems, my work combines physics priors with learning methods to solve challenging manipulation planning and manipulator design problems.
-I am especially interested in manipulation of rigid and deformable objects via nonprehensile or tool-assisted interactions. Topics that I have been actively exploring: robot hardware-control co-design, grasping by caging, and adversarial/red-teaming methods in robotics.
+<!-- With the ultimate goal of understanding human-level robustness under uncertainty and achieving it in robotic systems, my work combines physics priors with learning methods to solve challenging manipulation planning and manipulator design problems. I am especially interested in manipulation of rigid and deformable objects via nonprehensile or tool-assisted interactions. Topics that I have been actively exploring: robot hardware-control co-design, grasping by caging, and adversarial/red-teaming methods in robotics. -->
+
+Achieving robust manipulation under real-world uncertainties and variations is difficult. Many existing approaches address these challenges from within the robot itself through software solutions. In contrast, my research explores how factors external to the robot’s “brain,” including the environment and hardware intelligence, can simplify manipulation and improve robustness. Specifically, (1) I investigate robust manipulation strategies that exploit gravity and environmental contacts to reduce sensitivity to uncertainty; and (2) I study computational co-design of robot morphology and control, adapting hardware design to task-specific manipulation requirements.
+
 <!-- With the broader goal of achieving human-level robustness in robotic systems,
  -->
 
