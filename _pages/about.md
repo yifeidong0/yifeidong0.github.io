@@ -12,6 +12,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+academic_services: true # includes academic services section
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -19,12 +20,16 @@ Hi! I'm a PhD student at KTH in Stockholm, working with Prof. [Florian T. Pokorn
 
 <!-- With the ultimate goal of understanding human-level robustness under uncertainty and achieving it in robotic systems, my work combines physics priors with learning methods to solve challenging manipulation planning and manipulator design problems. I am especially interested in manipulation of rigid and deformable objects via nonprehensile or tool-assisted interactions. Topics that I have been actively exploring: robot hardware-control co-design, grasping by caging, and adversarial/red-teaming methods in robotics. -->
 
-Achieving robust manipulation under real-world uncertainties and variations is difficult. Many existing approaches address these challenges from within the robot itself through software solutions. In contrast, my research explores how factors external to the robot’s “brain,” including the environment and hardware intelligence, can simplify manipulation and improve robustness. Specifically, (1) I investigate robust manipulation strategies that exploit gravity and environmental contacts to reduce sensitivity to uncertainty; and (2) I study computational co-design of robot morphology and control, adapting hardware design to task-specific manipulation requirements.
+<!-- Achieving robust manipulation under real-world uncertainties and variations is difficult. Many existing approaches address these challenges from within the robot itself through software solutions. In contrast, my research explores how factors external to the robot’s “brain,” including the environment and hardware intelligence, can simplify manipulation and improve robustness. Specifically, (1) I investigate robust manipulation strategies that exploit gravity and environmental contacts to reduce sensitivity to uncertainty; and (2) I study computational co-design of robot morphology and control, adapting hardware design to task-specific manipulation requirements. -->
+
+I work on robotic manipulation, with particular interests in (1) the synthesis of robust manipulation skills under uncertainty that exploit tool use or rich contacts with the environment; and (2) the computational co-design of robot morphology and control, and broader hardware intelligence leveraging machine learning techniques. I also collaborate on projects exploring the grasping and manipulation of deformable or fragile objects, task and motion planning for long-horizon tasks, multi-object dexterous grasping, and related topics.
+
+If these topics interest you as well, feel free to reach out for a chat!
+
 
 <!-- With the broader goal of achieving human-level robustness in robotic systems,
  -->
 
-If these topics interest you as well, feel free to reach out for a chat!
 
 <!-- If you are a motivated master’s or undergraduate student with a solid background in robotics and an interest in these topics, feel free to reach out regarding potential research projects. -->
 
