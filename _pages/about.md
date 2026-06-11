@@ -26,7 +26,8 @@ I work on robotic manipulation, with particular interests in (1) the synthesis o
 
 If these topics interest you as well, feel free to reach out for a chat!
 
-Outside research, I play tennis, Gran Turismo and ski. Back when “spare time” was a more real thing before my PhD, I also liked to hike and play guitar.
+Outside research, I play tennis, Gran Turismo and ski.
+<!-- Back when “spare time” was a more real thing before my PhD, I also liked to hike and play guitar. -->
 <!-- With the broader goal of achieving human-level robustness in robotic systems,
  -->
 
