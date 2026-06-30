@@ -50,4 +50,5 @@ Outside research, I play tennis, Gran Turismo and ski.
 Preview:
 cd /home/yif/Documents/KTH/git/yifeidong0.github.io
 bundle install   # only needed once
-bundle exec jekyll serve --livereload -->
+bundle exec jekyll serve
+ -->

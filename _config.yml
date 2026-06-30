@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Welcome to contact me via email (yifeid at kth dot se), wechat (15802191326) or any of the social links aboves.
+  Welcome to contact me via email (yifeid at kth dot se), wechat (15802191326) or any of the social links aboves
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -320,7 +320,7 @@ filtered_bibtex_keywords:
   [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website, paper, workshop]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 4 # leave blank to always show all authors
+max_author_limit: 6 # leave blank to always show all authors
 more_authors_animation_delay: 20 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
