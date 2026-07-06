@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our survey paper on <a href="https://hal.science/hal-05671910">robustness of robotic manipulation</a> is out. Feel free to take a read!
+Our survey paper on <a href="https://arxiv.org/abs/2606.31494">robustness of robotic manipulation</a> is out. Feel free to take a read!
