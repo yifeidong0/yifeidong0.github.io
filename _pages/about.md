@@ -16,7 +16,7 @@ academic_services: true # includes academic services section
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a PhD student at KTH in Sweden, supervised by Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). I also work closely with the groups of Prof. [Xianyi Cheng](https://xianyicheng.github.io/) (Duke), Dr. [Sylvain Calinon](https://calinon.ch/) (Idiap), and Prof. [Danica Kragic](https://xianyicheng.github.io/) (KTH). I hold an M.Sc. from ETH Zürich and a B.Sc. from Shanghai Jiao Tong University. My [résumé](assets/pdf/Yifei_CV.pdf).
+Hi! I'm a PhD student at KTH in Sweden, advised by Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). I also work closely with the groups of Prof. [Xianyi Cheng](https://xianyicheng.github.io/) (Duke), Dr. [Sylvain Calinon](https://calinon.ch/) (Idiap), and Prof. [Danica Kragic](https://xianyicheng.github.io/) (KTH). I hold an M.Sc. from ETH Zürich and a B.Sc. from Shanghai Jiao Tong University. My [résumé](assets/pdf/Yifei_CV.pdf).
 
 <!-- With the ultimate goal of understanding human-level robustness under uncertainty and achieving it in robotic systems, my work combines physics priors with learning methods to solve challenging manipulation planning and manipulator design problems. I am especially interested in manipulation of rigid and deformable objects via nonprehensile or tool-assisted interactions. Topics that I have been actively exploring: robot hardware-control co-design, grasping by caging, and adversarial/red-teaming methods in robotics. -->
 
