@@ -16,7 +16,7 @@ academic_services: true # includes academic services section
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a PhD student at KTH in Sweden, advised by Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). I also work closely with the groups of Prof. [Xianyi Cheng](https://xianyicheng.github.io/) (Duke).
+Hi! I'm a PhD student at KTH in Sweden, advised by Prof. [Florian T. Pokorny](https://www.csc.kth.se/~fpokorny/). I also work closely with DexLab led by Prof. [Xianyi Cheng](https://xianyicheng.github.io/) (Duke).
 <!-- , Dr. [Sylvain Calinon](https://calinon.ch/) (Idiap), and Prof. [Danica Kragic](https://xianyicheng.github.io/) (KTH).  -->
 I hold an M.Sc. from ETH Zürich and a B.Sc. from Shanghai Jiao Tong University. My [résumé](assets/pdf/Yifei_CV.pdf).
 
@@ -24,11 +24,12 @@ I hold an M.Sc. from ETH Zürich and a B.Sc. from Shanghai Jiao Tong University.
 
 <!-- Achieving robust manipulation under real-world uncertainties and variations is difficult. Many existing approaches address these challenges from within the robot itself through software solutions. In contrast, my research explores how factors external to the robot’s “brain,” including the environment and hardware intelligence, can simplify manipulation and improve robustness. Specifically, (1) I investigate robust manipulation strategies that exploit gravity and environmental contacts to reduce sensitivity to uncertainty; and (2) I study computational co-design of robot morphology and control, adapting hardware design to task-specific manipulation requirements. -->
 
-I work on robotic manipulation, with particular interests in (1) the synthesis of robust non-prehensile manipulation skills that exploit tool use or rich contacts with the environment; and (2) the computational co-design of robot morphology and control, and broader hardware intelligence leveraging machine learning techniques. I also collaborate on projects exploring the grasping and manipulation of deformable or fragile objects, task and motion planning for long-horizon tasks, multi-object dexterous grasping, and related topics.
+My research focuses on synthesizing robust robotic manipulation skills and designing novel robot manipulators using machine learning and optimization tools. I am particularly interested in non-prehensile skills that exploit tools and environmental contacts, as well as the co-design of robot morphology and control. 
 
 If these topics interest you as well, feel free to reach out for a chat!
 
-Outside research, I play tennis, Gran Turismo and ski.
+Outside research, I enjoy playing tennis and skiing.
+
 <!-- Back when “spare time” was a more real thing before my PhD, I also liked to hike and play guitar. -->
 <!-- With the broader goal of achieving human-level robustness in robotic systems,
  -->
