@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on <a href="https://arxiv.org/abs/2506.03362">robust robotic tool use</a> has been accepted to ICRA 2026, Vienna.
+Our paper on <a href="https://arxiv.org/abs/2506.03362">robotic tool selection and use</a> is accepted to ICRA 2026, Vienna.

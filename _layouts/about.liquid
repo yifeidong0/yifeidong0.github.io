@@ -56,12 +56,24 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
+    <!-- Publications -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+      <h2 class="publications-heading">
+        <span>publications</span>
+        <span class="publication-toggle-group" role="group" aria-label="Filter publications">
+          <button type="button" class="publication-toggle active" data-pub-target="selected">Selected</button>
+          <span class="publication-toggle-sep">/</span>
+          <button type="button" class="publication-toggle" data-pub-target="all">All</button>
+        </span>
       </h2>
-      {% include selected_papers.liquid %}
+      <div class="publication-panel" data-pub-panel="selected">
+        {% include selected_papers.liquid %}
+      </div>
+      <div class="publication-panel" data-pub-panel="all" hidden>
+        <div class="publications">
+          {% bibliography %}
+        </div>
+      </div>
     {% endif %}
 
     <!-- Academic Services -->
