@@ -10,6 +10,25 @@ $(document).ready(function () {
   });
   $("a").removeClass("waves-effect waves-light");
 
+  // within each publication list: newest year first, accepted papers before preprints (otherwise keep bib order)
+  $("ol.bibliography").each(function () {
+    var $ol = $(this);
+    var items = $ol.children("li").get();
+    var key = function (li) {
+      var $row = $(li).find("[data-pub-year]").first();
+      return { year: parseInt($row.data("pub-year"), 10) || 0, preprint: String($row.data("pub-preprint")) === "true" ? 1 : 0 };
+    };
+    var keyed = items.map(function (li, i) {
+      return { li: li, i: i, k: key(li) };
+    });
+    keyed.sort(function (a, b) {
+      return b.k.year - a.k.year || a.k.preprint - b.k.preprint || a.i - b.i;
+    });
+    keyed.forEach(function (x) {
+      $ol.append(x.li);
+    });
+  });
+
   // publications selected/all toggle
   $(".publication-toggle").click(function () {
     var target = $(this).data("pub-target");

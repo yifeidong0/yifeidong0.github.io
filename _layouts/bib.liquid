@@ -1,6 +1,12 @@
 ---
 ---
-<div class="row">
+{%- capture pub_venue -%}{{ entry.journal }} {{ entry.booktitle }}{%- endcapture -%}
+{%- assign pub_venue = pub_venue | downcase -%}
+{%- assign pub_preprint = false -%}
+{%- if pub_venue contains 'preprint' or pub_venue contains 'under review' or pub_venue contains 'submitted' or pub_venue contains 'arxiv' or pub_venue == ' ' -%}
+  {%- assign pub_preprint = true -%}
+{%- endif -%}
+<div class="row" data-pub-year="{{ entry.year }}" data-pub-preprint="{{ pub_preprint }}">
   {% if site.enable_publication_thumbnails %}
     <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
       {% if entry.preview %}
