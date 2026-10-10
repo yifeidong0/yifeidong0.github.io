@@ -71,7 +71,9 @@ layout: default
       </div>
       <div class="publication-panel" data-pub-panel="all" hidden>
         <div class="publications">
-          {% bibliography %}
+          {% bibliography --query @*[journal!=Preprint]* %}
+          <h2 class="bibliography">preprints</h2>
+          {% bibliography --group_by none --query @*[journal=Preprint]* %}
         </div>
       </div>
     {% endif %}
