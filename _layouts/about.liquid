@@ -61,7 +61,7 @@ layout: default
         <span class="publication-toggle-group" role="group" aria-label="Filter publications">
           <button type="button" class="publication-toggle active" data-pub-target="selected">Selected</button>
           <span class="publication-toggle-sep">/</span>
-          <button type="button" class="publication-toggle" data-pub-target="all">All</button>
+          <button type="button" class="publication-toggle" data-pub-target="all">More</button>
         </span>
       </h2>
       <div class="publication-panel" data-pub-panel="selected">
@@ -72,6 +72,10 @@ layout: default
           {% bibliography --query @*[journal!=Preprint]* %}
           <h2 class="bibliography bibliography-preprints">preprints</h2>
           {% bibliography --group_by none --query @*[journal=Preprint]* %}
+          <div class="publications-scholar-link">
+            Complete paper list on
+            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}">Google Scholar</a>.
+          </div>
         </div>
       </div>
     {% endif %}

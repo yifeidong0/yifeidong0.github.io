@@ -692,6 +692,15 @@ footer.sticky-bottom {
   }
 }
 
+.publications-scholar-link {
+  border-top: 1px solid var(--global-divider-color);
+  color: var(--global-text-color-light);
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  padding-top: 1rem;
+  text-align: center;
+}
+
 .publications {
   margin-top: 2rem;
 
